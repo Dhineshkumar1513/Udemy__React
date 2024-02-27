@@ -9,8 +9,8 @@ function Header() {
       ">Udemy</h1>
 
       <input
-        className=" hidden
-        lg:flex w-[400px] rounded-[20px] border-2  border-black pl-3"
+        className=" hidden 
+        lg:flex w-[400px] rounded-[20px] border-2  border-black pl-4"
         type="text"
         placeholder="⌕ Search For Anything Here"
       />

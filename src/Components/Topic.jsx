@@ -8,16 +8,16 @@ function Topic() {
     <div>
       <div>
         <h1 className='text-[20px] font-bold md:text-2xl'>Topics Recomanded For You</h1>
-        <div className='text-[13px]  grid grid-cols-2 m-2 gap-2 md:text-[20px] md:grid-cols-3 md:gap-4 '>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>Website</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>JavaScript</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>CSS</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>MongoDB</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>Azure</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>AWS</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>Docker</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>GitHub</h1>
-            <h1 className='border p-2 border-black text-center font-bold hover:text-white hover:bg-black'>ReactJs</h1>
+        <div className='text-[13px] flex flex-wrap   m-2 gap-2 md:text-[20px]  md:gap-4 '>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>Website</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>JavaScript</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>CSS</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>MongoDB</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>Azure</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>AWS</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>Docker</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>GitHub</h1>
+            <h1 className='border p-2 flex-grow basis-[40%] md:basis-[30%] border-black text-center font-bold hover:text-white hover:bg-black'>ReactJs</h1>
         </div>
       </div>
       <div>
